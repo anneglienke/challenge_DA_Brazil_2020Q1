@@ -10,9 +10,14 @@ O olist é a maior loja de departamentos dos marketplaces. Possui um catálogo c
 ![Curva ABC](images/print2.jpeg)
 ![Top 10](images/print3.jpeg)
 
-## Resultados encontrados
+## Abordagem
 
-Este README contém um breve resumo do processo utilizado para realizar as análises. O processo completo, assim como os resultados encontrados, estão descritos no relatório elaborado para entrega.
+Para analisar os dados disponibilizados, as perguntas que me propus a responder foram:
+
+1. Como a receita está distribuída?
+2. Quem são os principais lojistas? O que eles vendem?  
+
+Este README contém um breve resumo. O processo completo, assim como os resultados encontrados, estão descritos no relatório elaborado para entrega.
 
 Arquivo `.pbix` (Power BI): https://drive.google.com/file/d/1FxlALD1EwpK4TjLEW9yfIqTVc8hYcrY0/view?usp=sharing
 Dicionário de dados: https://github.com/anneglienke/work-at-olist-data/blob/master/dicionario_dados.md
