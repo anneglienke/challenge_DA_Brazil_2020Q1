@@ -1,6 +1,8 @@
 # Teste prático (work-at-olist-data)
 
-Esta repositório traz uma abordagem de análise de dados sobre datasets públicos do Olist. A apresentação desta abordagem conta com uma **análise exploratória dos dados utilizando Pandas Profiling, além de 3 dashboards construídas utilizando Power BI**. Para visualizar as dashboards, você pode utilizar o arquivo `.pbix` disponível no repositório.
+Esta repositório traz uma abordagem de análise de dados sobre datasets públicos do Olist. A apresentação desta abordagem conta com uma **análise exploratória dos dados utilizando Pandas Profiling, além de 3 dashboards construídas utilizando Power BI**. 
+
+Por conta do limite de tamanho do GitHub, disponibilizei o arquivo `.pbix` via Google Drive neste link: https://drive.google.com/file/d/1FxlALD1EwpK4TjLEW9yfIqTVc8hYcrY0/view?usp=sharing
 
 O olist é a maior loja de departamentos dos marketplaces. Possui um catálogo com mais de 950 mil produtos, centenas de milhares de pedidos e uma rede de mais de 9 mil lojistas parceiros espalhados por todas as regiões do Brasil. A área de dados e inteligência é uma das principais alavancas de crescimento do negócio, por isso a equipe de Business Science e Analytics (BSA) está em busca de profissionais apaixonados por dados.
 
@@ -12,14 +14,17 @@ O olist é a maior loja de departamentos dos marketplaces. Possui um catálogo c
 
 Este README contém um breve resumo do processo utilizado para realizar as análises. O processo completo, assim como os resultados encontrados, estão descritos no relatório elaborado para entrega.
 
+Arquivo `.pbix` (Power BI): https://drive.google.com/file/d/1FxlALD1EwpK4TjLEW9yfIqTVc8hYcrY0/view?usp=sharing
+Dicionário de dados: https://github.com/anneglienke/work-at-olist-data/blob/master/dicionario_dados.md
+
 ## Estratégia de limpeza e tratamento
 
-1. Análise exploratória dos datasets (Google Colab - Python): https://colab.research.google.com/drive/1J7PyXbgIKoiL_0h1GcV1H0OZMM9YtQt8?usp=sharing
+1. Análise exploratória dos datasets (Google Colab - Python): https://colab.research.google.com/drive/1J7PyXbgIKoiL_0h1GcV1H0OZMM9YtQt8?usp=sharing. O Jupyter Notebook também está disponível na pasta "analise" do repositório. 
 2. Upload dos datasets no Power BI.
 3. Alteração de tipos e formatos de dados (codificação, latitude/longitude, valores, datas) para se adequarem aos padrões do Power BI e criação de coluna para transformação da coluna `seller_id` em nomes mais "amigáveis" esteticamente para os dashes.
 4. Relacionamento entre tabelas no Power BI.
 5. Criação de métricas para verificação de valores e construção dos gráficos e tabelas.
-6. Verificação de hipóteses (Google Colab - Python): https://colab.research.google.com/drive/1J7PyXbgIKoiL_0h1GcV1H0OZMM9YtQt8?usp=sharing
+6. Verificação de hipóteses (Google Colab - Python): https://colab.research.google.com/drive/1J7PyXbgIKoiL_0h1GcV1H0OZMM9YtQt8?usp=sharing. O Jupyter Notebook também está disponível na pasta "analise" do repositório. 
 
 ## Bases utilizadas
 
