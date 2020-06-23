@@ -4,8 +4,8 @@ Esta repositório traz uma abordagem de análise de dados sobre datasets públic
 
 Os arquivos de análise se encontram na pasta "analise".
 
-![Mapa](images/print1.jpeg)
 ![Curva ABC](images/print2.jpeg)
+![Mapa](images/print1.jpeg)
 ![Top 10](images/print3.jpeg)
 
 ## Abordagem
