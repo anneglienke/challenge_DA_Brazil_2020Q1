@@ -19,7 +19,7 @@ Para analisar os dados disponibilizados, as perguntas que me propus a responder 
 
 Este README contém um breve resumo. O processo completo, assim como os resultados encontrados, estão descritos no relatório elaborado para entrega.
 
-Dicionário de dados: https://github.com/anneglienke/work-at-olist-data/blob/master/dicionario_dados.md
+Dicionário de dados: https://github.com/anneglienke/work-at-olist-data/blob/master/analise/dicionario_dados.md
 
 ## Estratégia de limpeza e tratamento
 
