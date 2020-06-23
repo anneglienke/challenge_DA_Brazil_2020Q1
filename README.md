@@ -2,7 +2,7 @@
 
 Esta repositório traz uma abordagem de análise de dados sobre datasets públicos do Olist. A apresentação desta abordagem conta com uma **análise exploratória dos dados utilizando Pandas Profiling, além de 3 dashboards construídas utilizando Power BI**. 
 
-Por conta do limite de tamanho do GitHub, disponibilizei o arquivo `.pbix` via Google Drive neste link: https://drive.google.com/file/d/1FxlALD1EwpK4TjLEW9yfIqTVc8hYcrY0/view?usp=sharing
+Os arquivos de análise se encontram na pasta "analise".
 
 O olist é a maior loja de departamentos dos marketplaces. Possui um catálogo com mais de 950 mil produtos, centenas de milhares de pedidos e uma rede de mais de 9 mil lojistas parceiros espalhados por todas as regiões do Brasil. A área de dados e inteligência é uma das principais alavancas de crescimento do negócio, por isso a equipe de Business Science e Analytics (BSA) está em busca de profissionais apaixonados por dados.
 
@@ -19,7 +19,6 @@ Para analisar os dados disponibilizados, as perguntas que me propus a responder 
 
 Este README contém um breve resumo. O processo completo, assim como os resultados encontrados, estão descritos no relatório elaborado para entrega.
 
-Arquivo `.pbix` (Power BI): https://drive.google.com/file/d/1FxlALD1EwpK4TjLEW9yfIqTVc8hYcrY0/view?usp=sharing
 Dicionário de dados: https://github.com/anneglienke/work-at-olist-data/blob/master/dicionario_dados.md
 
 ## Estratégia de limpeza e tratamento
