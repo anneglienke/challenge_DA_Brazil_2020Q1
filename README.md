@@ -4,8 +4,6 @@ Esta repositório traz uma abordagem de análise de dados sobre datasets públic
 
 Os arquivos de análise se encontram na pasta "analise".
 
-O olist é a maior loja de departamentos dos marketplaces. Possui um catálogo com mais de 950 mil produtos, centenas de milhares de pedidos e uma rede de mais de 9 mil lojistas parceiros espalhados por todas as regiões do Brasil. A área de dados e inteligência é uma das principais alavancas de crescimento do negócio, por isso a equipe de Business Science e Analytics (BSA) está em busca de profissionais apaixonados por dados.
-
 ![Mapa](images/print1.jpeg)
 ![Curva ABC](images/print2.jpeg)
 ![Top 10](images/print3.jpeg)
